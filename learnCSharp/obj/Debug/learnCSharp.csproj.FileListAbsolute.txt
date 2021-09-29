@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\learnCSharp\learnCSharp\bin\Debug\learnCSharp.exe.config
+C:\Users\user\source\repos\learnCSharp\learnCSharp\bin\Debug\learnCSharp.exe
+C:\Users\user\source\repos\learnCSharp\learnCSharp\bin\Debug\learnCSharp.pdb
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.Form1.resources
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.Properties.Resources.resources
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.exe
+C:\Users\user\source\repos\learnCSharp\learnCSharp\obj\Debug\learnCSharp.pdb
